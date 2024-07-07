@@ -1,0 +1,26 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 06 Jul 2024 14:31:39 at https://abogadaangel.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://abogadaangel.com/ -O1 "C:\My Web Sites\smartpathtoamerica" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:32:24	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://abogadaangel.com/)
+14:36:49	Error: 	"Not Found" (404) at link https://abogadaangel.com/a (from https://connect.facebook.net/en_US/fbevents.js)
+14:36:54	Error: 	"Not Found" (404) at link https://abogadaangel.com/POST (from https://connect.facebook.net/en_US/fbevents.js)
+14:36:55	Error: 	"Not Found" (404) at link https://abogadaangel.com/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js)
+14:37:00	Error: 	"Not Found" (404) at link https://abogadaangel.com/b.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+14:37:25	Error: 	"Not Found" (404) at link https://abogadaangel.com/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+14:37:38	Error: 	"Bad Request" (400) at link https://abogadaangel.com/"https://www.youtube.com/embed/3GCfpsdPW9c?feature=oembed\%22 (from https://abogadaangel.com/preguntas-frecuentes-inmigracion)
+14:37:38	Error: 	"Not Found" (404) at link https://abogadaangel.com/"https://www.youtube.com/embed/3GCfpsdPW9c?feature=oembed%22 (from https://abogadaangel.com/preguntas-frecuentes-inmigracion)
+14:37:38	Error: 	"Bad Request" (400) at link https://abogadaangel.com/"https://www.youtube.com/embed/GB3aM2A6B3g?feature=oembed\%22 (from https://abogadaangel.com/preguntas-frecuentes-inmigracion)
+14:37:38	Error: 	"Not Found" (404) at link https://abogadaangel.com/"https://www.youtube.com/embed/GB3aM2A6B3g?feature=oembed%22 (from https://abogadaangel.com/preguntas-frecuentes-inmigracion)
+14:37:38	Error: 	"Bad Request" (400) at link https://abogadaangel.com/"https://www.youtube.com/embed/rqn20rNEbR0?feature=oembed\%22 (from https://abogadaangel.com/preguntas-frecuentes-inmigracion)
+14:37:38	Error: 	"Not Found" (404) at link https://abogadaangel.com/"https://www.youtube.com/embed/rqn20rNEbR0?feature=oembed%22 (from https://abogadaangel.com/preguntas-frecuentes-inmigracion)
+14:37:38	Error: 	"Bad Request" (400) at link https://abogadaangel.com/"https://www.youtube.com/embed/c01OOaLOnlk?feature=oembed\%22 (from https://abogadaangel.com/preguntas-frecuentes-inmigracion)
+14:37:38	Error: 	"Not Found" (404) at link https://abogadaangel.com/"https://www.youtube.com/embed/c01OOaLOnlk?feature=oembed%22 (from https://abogadaangel.com/preguntas-frecuentes-inmigracion)
+14:42:00	Error: 	"Not Found" (404) at link https://abogadaangel.com/(909) 930-2490 (from https://abogadaangel.com/ontario)
+
+HTTrack Website Copier/3.49-2 mirror complete in 10 minutes 21 seconds : 179 links scanned, 163 files written (84430009 bytes overall), 4 files updated [568615 bytes received at 915 bytes/sec], 2551733 bytes transferred using HTTP compression in 13 files, ratio 14%, 1.4 requests per connection
+(15 errors, 0 warnings, 0 messages)
